@@ -1,0 +1,9 @@
+header {
+	display: flex;
+	justify-content: flex-start;
+}
+.minilogo{
+	width: 7vh;
+	height: 7vh;
+	align-self: center;
+}
