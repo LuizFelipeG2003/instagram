@@ -1,9 +1,17 @@
-header {
+header{
 	display: flex;
 	justify-content: flex-start;
+	justify-content: space-around;
 }
 .minilogo{
-	width: 7vh;
 	height: 7vh;
+	align-self: center;
+}
+.btn{
+	height: 3vh;
+	align-self: center;
+}
+.btnicones{
+	height: 5vh;
 	align-self: center;
 }
